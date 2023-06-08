@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-website/static/css/main.b0b814f7.css",
+    "main.js": "/Ecommerce-website/static/js/main.e503159a.js",
+    "static/js/787.d6f0ee2b.chunk.js": "/Ecommerce-website/static/js/787.d6f0ee2b.chunk.js",
+    "static/media/4.png": "/Ecommerce-website/static/media/4.86da17a3d28edb1d550f.png",
+    "static/media/11.png": "/Ecommerce-website/static/media/11.d0beb64eeadbb5a1c9bd.png",
+    "static/media/20.jpg": "/Ecommerce-website/static/media/20.f81ea015eda0aa37fa21.jpg",
+    "static/media/16.png": "/Ecommerce-website/static/media/16.8299b141dad942748349.png",
+    "static/media/18.jpg": "/Ecommerce-website/static/media/18.777f7259e45eff55ae89.jpg",
+    "static/media/8.webp": "/Ecommerce-website/static/media/8.c9bca24494bd7a26b84a.webp",
+    "static/media/13.jpg": "/Ecommerce-website/static/media/13.df3bec4064938f4b44e2.jpg",
+    "static/media/12.jpg": "/Ecommerce-website/static/media/12.0cfa257e87f71ecb6850.jpg",
+    "static/media/15.jpg": "/Ecommerce-website/static/media/15.1d5dd62704b504ff051e.jpg",
+    "static/media/1.webp": "/Ecommerce-website/static/media/1.362d4959904e14183387.webp",
+    "static/media/7.webp": "/Ecommerce-website/static/media/7.3ef364bf418f8c58419a.webp",
+    "static/media/14.jpg": "/Ecommerce-website/static/media/14.fb3fae546313281a67cf.jpg",
+    "static/media/19.jpg": "/Ecommerce-website/static/media/19.de87dda3dba7b5eafc1d.jpg",
+    "static/media/6.jpg": "/Ecommerce-website/static/media/6.39190be3513f292f441a.jpg",
+    "static/media/10.jpeg": "/Ecommerce-website/static/media/10.1a0b327329a31b94d24a.jpeg",
+    "static/media/5.webp": "/Ecommerce-website/static/media/5.320d754edfdce1ff3950.webp",
+    "static/media/3.jpg": "/Ecommerce-website/static/media/3.4eab3f90ab14a5088663.jpg",
+    "static/media/9.jpg": "/Ecommerce-website/static/media/9.13ba977b8a6a0f0027ad.jpg",
+    "static/media/17.webp": "/Ecommerce-website/static/media/17.2725834dd75a093b85e3.webp",
+    "static/media/2.webp": "/Ecommerce-website/static/media/2.fd5db4e4e681c04f2826.webp",
+    "index.html": "/Ecommerce-website/index.html",
+    "main.b0b814f7.css.map": "/Ecommerce-website/static/css/main.b0b814f7.css.map",
+    "main.e503159a.js.map": "/Ecommerce-website/static/js/main.e503159a.js.map",
+    "787.d6f0ee2b.chunk.js.map": "/Ecommerce-website/static/js/787.d6f0ee2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b814f7.css",
+    "static/js/main.e503159a.js"
+  ]
+}
